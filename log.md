@@ -1,25 +1,14 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: June 8, 2020
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Began Javascript algorithm and data structures tutorial on freeCodeCamp. 46 tasks down.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** Feeling good about passing these tasks with relative ease. Lots of refresher material from Odin Project Javascript track material. Looking back at responsive web design tutoruals I've already completed realizing that info probably hasn't stuck in my brain.....keep grinding.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [FCC Progress - JS Challenge 46](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/global-scope-and-functions)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
+### Day 2: June 9, 2020
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
