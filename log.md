@@ -10,10 +10,41 @@
 
 ### Day 2: June 9, 2020
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: More exercises on freeCodeCamp. Completed if Else statement "Golf Challenge". Actually began the 100 days of code log today, backfilled day 0 entry. Note to explore JavaScript30, Daily CSS Image Challenge, Udemy Web Developer bootcamp as possible resources to add to 100 day challenge.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** Today serves as a reminder of the need to practice! If else and switch statements seem intuitive but need to put in practice. Coding times today were 3:50pm-5pmish and agagin from 9:45pm-11:15pm
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [Golf Code] 
+var names = ["Hole-in-one!", "Eagle", "Birdie", "Par", "Bogey", "Double Bogey", "Go Home!"];
+function golfScore(par, strokes) {
+  // Only change code below this line
+if (strokes == 1) {
+  return names[0];
+} else if (strokes <= (par - 2)) {
+  return names[1];
+} else if (strokes == (par - 1)) {
+  return names[2];
+} else if (strokes == par) {
+  return names[3];
+} else if (strokes == (par + 1)) {
+  return names [4];
+} else if (strokes == (par + 2)) {
+  return names [5];
+} else {
+  return names [6];
+}
+
+  // Only change code above this line
+}
+
+console.log(golfScore(5, 4));
+
+### Day 3: June 10, 2020
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+1. [XXXXXXXX] 
