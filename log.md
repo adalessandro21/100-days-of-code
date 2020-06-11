@@ -42,9 +42,9 @@ console.log(golfScore(5, 4));
 
 ### Day 3: June 10, 2020
 
-**Today's Progress**: 
+**Today's Progress**: FCC continued. Made a Trello board "Programming Guide" based on a recommendation from a completed 100 days of coder. 3p-5p / 9p-10p
 
-**Thoughts** 
+**Thoughts** Taking notes this go round. Card counting function was a challenge. Enjoying Objects section of FCC JS course.
 
 **Link(s) to work**
-1. [XXXXXXXX] 
+1. [Trello] - https://trello.com/b/gWvBqQPJ/programming-info
