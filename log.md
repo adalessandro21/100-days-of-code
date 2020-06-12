@@ -48,3 +48,14 @@ console.log(golfScore(5, 4));
 
 **Link(s) to work**
 1. [Trello] - https://trello.com/b/gWvBqQPJ/programming-info
+
+### Day 4: June 11, 2020
+
+**Today's Progress**: Stupmed for an hour or two on record collection challenge. Followed various programming subreddits...can't escape even when procrastinating on reddit.
+
+**Thoughts** Need to step back and evaluate challenges before aimlessly writing code. Over-complicating things. Revisit "record collection" to further grasp concepts.
+
+**Link(s) to work**
+1. [Trello] - https://trello.com/b/gWvBqQPJ/programming-info
+
+
