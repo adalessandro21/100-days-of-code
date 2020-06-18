@@ -78,7 +78,7 @@ console.log(golfScore(5, 4));
 
 **Today's Progress**: Completed FCC JS track (basic). Still confusion surrounding recursion - countdown & range of numbers difficulty. Begin ES6.
 
-**Thoughts** 
+**Thoughts** Loops making sense sort of. 
 
 **Link(s) to work**
 1. 
