@@ -58,4 +58,28 @@ console.log(golfScore(5, 4));
 **Link(s) to work**
 1. [Trello] - https://trello.com/b/gWvBqQPJ/programming-info
 
+### Day 5: June 15, 2020
+
+**Today's Progress**: Back on FCC after Connecticut weekend. Started Loops.
+
+**Thoughts** Maybe taking too much of an schoolwork approach. Look to complete JS tutorials and begin some projects.
+
+**Link(s) to work**
+
+### Day 6: June 16, 2020
+
+**Today's Progress**: Almost complete FCC JS track. Recursion challenges.
+
+**Thoughts** Not immediately grasping. Keep grinding.
+
+**Link(s) to work**
+
+### Day 7: June 17, 2020
+
+**Today's Progress**: Completed FCC JS track (basic). Still confusion surrounding recursion - countdown & range of numbers difficulty. Begin ES6.
+
+**Thoughts** 
+
+**Link(s) to work**
+1. 
 
