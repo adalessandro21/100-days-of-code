@@ -82,4 +82,20 @@ console.log(golfScore(5, 4));
 
 **Link(s) to work**
 1. 
+### Day 8: June 18, 2020
+
+**Today's Progress**: ES6 50% progress
+
+**Thoughts** getters and setters
+
+**Link(s) to work**
+1. 
+### Day 9: June 19, 2020
+
+**Today's Progress**: conmpleted ES6 tutorials
+
+**Thoughts** lots of new terms thrown at me. will need to revisit these lessons A LOT
+
+**Link(s) to work**
+1. 
 
