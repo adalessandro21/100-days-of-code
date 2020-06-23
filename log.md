@@ -98,4 +98,28 @@ console.log(golfScore(5, 4));
 
 **Link(s) to work**
 1. 
+### Day 10: June 21, 2020
 
+**Today's Progress**: began FCC "Regular expressions" section
+
+**Thoughts** feeling burnt out from javascript. haven't made connection to real world uses of JS - all theory and concepts
+
+**Link(s) to work**
+1. 
+### Day 11: June 22, 2020
+
+**Today's Progress**: went back in FCC to responsive web design projects. built "survey form" challenge 
+
+**Thoughts** was happy to feel that html and css concepts were easy to pick back up. had fun with the challenge!
+
+**Link(s) to work**
+1. https://codepen.io/adalessandro21/pen/vYLmOrJ 
+
+### Day 12: June 23, 2020
+
+**Today's Progress**: conmpleted ES6 tutorials
+
+**Thoughts** lots of new terms thrown at me. will need to revisit these lessons A LOT
+
+**Link(s) to work**
+1. 
