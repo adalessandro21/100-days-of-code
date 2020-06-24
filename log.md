@@ -117,9 +117,9 @@ console.log(golfScore(5, 4));
 
 ### Day 12: June 23, 2020
 
-**Today's Progress**: conmpleted ES6 tutorials
+**Today's Progress**: FCC Regular expressions tutorials
 
-**Thoughts** lots of new terms thrown at me. will need to revisit these lessons A LOT
+**Thoughts** regexes
 
 **Link(s) to work**
 1. 
