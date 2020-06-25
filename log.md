@@ -123,3 +123,11 @@ console.log(golfScore(5, 4));
 
 **Link(s) to work**
 1. 
+### Day 13: June 24, 2020
+
+**Today's Progress**:complete Wes Bos JS 30, first challenge - "JS Drum Kit"
+
+**Thoughts** this should be my new focus...looking up more curriculum from Wes
+
+**Link(s) to work**
+1. file:///C:/Users/adale/Documents/01%20-%20JavaScript%20Drum%20Kit/index-START.html
